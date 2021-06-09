@@ -19,7 +19,7 @@
               <v-list color="transparent">
                 <v-list-item v-for="n in 5" :key="n" link>
                   <v-list-item-content>
-                    <v-list-item-title> List Items {{ n }} </v-list-item-title>
+                    <v-list-item-title> Manu items {{ n }} </v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
 
