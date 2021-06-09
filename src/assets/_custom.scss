@@ -1,0 +1,8 @@
+.my-h2 {
+  color: blue;
+}
+@media print {
+	.noprint {
+		display: none;
+	}
+}
